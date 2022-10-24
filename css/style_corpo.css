@@ -1,0 +1,12 @@
+.conteudo{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.conteudo-texto{
+    text-align: justify;
+}
+.imagem{
+    width: 100%;
+    height: 100%;
+}

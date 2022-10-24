@@ -1,0 +1,57 @@
+/* comunicacao */
+.comunicacao{
+    background-color: #302f2f;
+    height: 200px;
+}
+.comunicacao h3{
+    color: white;
+}
+
+.comunicacao h3{
+    color: white;
+}
+
+.texto-contacto{
+    color: white;
+}
+
+.txt-contacto{
+    color: #777;;
+}
+.contacto_sobre{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.entre_contacto{
+    float: left;
+    padding: 0;
+}
+.sobre_nos{
+    float: left;
+    margin: 0 200px;
+    padding: 0;
+}
+.comunicacao section{
+    padding:20px 0px;
+}
+
+
+/* Footer */
+.end-page{
+    background-color: #011627;
+    text-align: center;
+    padding: 25px 0px;
+}
+footer{
+    font-size: 12px;
+    color: white;
+}
+
+.voltar_home{
+	max-width: 1000px;
+	margin: 0 auto;
+
+}
+.voltar_home> div> p{
+	text-align: center;
+}
